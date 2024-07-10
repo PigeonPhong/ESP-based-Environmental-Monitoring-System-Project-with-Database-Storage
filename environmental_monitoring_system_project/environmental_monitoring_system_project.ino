@@ -21,7 +21,6 @@ const char* maxMinUrl = "http://192.168.162.21:8080/sensor_project/get_max_min.p
 const char* apiKey = "q1w2e3r4t5y6u7i8o9";
 
 // Pin Definitions
-#define MQ135_PIN A0  // MQ-135 gas sensor connected to analog pin A0
 #define SERVO_PIN D5  // Servo motor connected to digital pin D5
 #define SEALEVELPRESSURE_HPA (1013.25)
 
